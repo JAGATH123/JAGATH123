@@ -46,7 +46,7 @@
 <img src="./assets/section-telemetry.svg" width="100%" alt="04 — Telemetry" />
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JAGATH123&show_icons=true&custom_title=Signal%20Strength&bg_color=0A0C12&title_color=FFC83D&text_color=C9D1D9&icon_color=C4183C&ring_color=FFC83D&border_color=1C2130&border_radius=16&card_width=495" width="49%" alt="GitHub stats for JAGATH123" />
+  <img src="https://github-readme-stats.vercel.app/api?username=JAGATH123&show_icons=true&hide_rank=true&custom_title=Signal%20Strength&bg_color=0A0C12&title_color=FFC83D&text_color=C9D1D9&icon_color=C4183C&ring_color=FFC83D&border_color=1C2130&border_radius=16&card_width=495" width="49%" alt="GitHub stats for JAGATH123" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JAGATH123&layout=compact&langs_count=8&custom_title=Core%20Languages&bg_color=0A0C12&title_color=FFC83D&text_color=C9D1D9&border_color=1C2130&border_radius=16&card_width=495" width="49%" alt="Most used languages for JAGATH123" />
 </p>
 

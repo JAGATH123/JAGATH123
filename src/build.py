@@ -281,7 +281,8 @@ def header():
     scan = svg.uid("scan")
     svg.defs.append(f'<linearGradient id="{scan}" x1="0" y1="0" x2="0" y2="1">'
                     f'<stop offset="0" stop-color="{GOLD}" stop-opacity="0"/>'
-                    f'<stop offset="1" stop-color="{GOLD}" stop-opacity=".07"/></linearGradient>')
+                    f'<stop offset=".8" stop-color="{GOLD}" stop-opacity=".07"/>'
+                    f'<stop offset="1" stop-color="{GOLD}" stop-opacity="0"/></linearGradient>')
     svg.add(f'<rect x="0" y="-80" width="1200" height="80" fill="url(#{scan})">'
             f'<animate attributeName="y" values="-80;420" dur="7s" repeatCount="indefinite"/></rect>')
 
